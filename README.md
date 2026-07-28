@@ -85,55 +85,55 @@ python expense_tracker.py
 
 ### 🏠 Main Menu
 
-![Main Menu](screenshots/1-menu.png)
+![Main Menu](screenshots/01-menu.png)
 
 ---
 
 ### ➕ Add Expense
 
-![Add Expense](screenshots/2-add-expense.png)
+![Add Expense](screenshots/02-add-expense.png)
 
 ---
 
 ### 📋 View Expenses
 
-![View Expenses](screenshots/3-view-expense.png)
+![View Expenses](screenshots/03-view-expense.png)
 
 ---
 
 ### 🔍 Search by Category
 
-![Search Category](screenshots/4-search-by-category.png)
+![Search Category](screenshots/04-search-by-category.png)
 
 ---
 
 ### 📅 Search by Date
 
-![Search Date](screenshots/5-search-by-date.png)
+![Search Date](screenshots/05-search-by-date.png)
 
 ---
 ### 📊 Total Expense
 
-![Total Expenses](screenshots/6-total-expense.png)
+![Total Expenses](screenshots/06-total-expense.png)
 
 ---
 
 
 ### 📊 Monthly Report
 
-![Monthly Report](screenshots/7-monthly-report.png)
+![Monthly Report](screenshots/07-monthly-report.png)
 
 ---
 
 ### 🗑️ Delete Expense
 
-![Delete Expense](screenshots/8-delete-expense.png)
+![Delete Expense](screenshots/08-delete-expense.png)
 
 ---
 
 ### ✏️ Update Expense
 
-![Update Expense](screenshots/9-update-expense.png)
+![Update Expense](screenshots/09-update-expense.png)
 
 ---
 ### 💰 Category-wise Total
