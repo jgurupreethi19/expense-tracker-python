@@ -151,7 +151,7 @@ python expense_tracker.py
 
 ### 💾 CSV File
 
-![CSV File](screenshots/expenses-12-csv.png)
+![CSV File](screenshots/12-csv.png)
 
 ---
 
